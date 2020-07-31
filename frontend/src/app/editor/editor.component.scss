@@ -1,0 +1,12 @@
+@import "highlight";
+@import "../../../node_modules/angular-text-input-highlight/text-input-highlight.css";
+
+textarea {
+  width: 500px;
+}
+
+#editor {
+  border: 4px solid lightseagreen;
+  border-radius: 5px;
+  height: 500%;
+}
